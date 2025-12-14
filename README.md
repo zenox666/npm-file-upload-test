@@ -16,7 +16,7 @@ A minimal test project for experimenting with file uploads in an npm-based Node.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/zenox666/npm-file-upload-test.git
 cd npm-file-upload-test
 ```
 
