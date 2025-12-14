@@ -29,7 +29,10 @@ npm i sillyname superheroes
 npm init
 ```
 
-## Run the project:
+
+## Usage
+
+Run the application:
 ```bash
 node index.js
 ```
